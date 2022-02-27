@@ -1,5 +1,4 @@
 # Readers-Writers-Problem
-Reader-Writers problem can be defined as several processes trying to access a shared variable. To avoid conflictions, a mechanism that enables writers to be run sequential and readers to be parallel should be defined.
 
 ## Project Requirements 
 If a writer has begun the writing process, then
